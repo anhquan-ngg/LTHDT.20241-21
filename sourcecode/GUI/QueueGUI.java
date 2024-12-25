@@ -1,6 +1,6 @@
 package sourcecode.GUI;
 
-import MainProject.DataStructure.Queue;
+import sourcecode.DataStructure.Queue;
 
 import javax.swing.*;
 import java.awt.*;
